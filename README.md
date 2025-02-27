@@ -16,13 +16,3 @@ Going into this project my top 3 questions I had about the housing market were H
 
 For this project the libraries I used were my biggest tools. I used the pandas library, matplotlib library, and the seaborn library. The pandas library is used for data manipulation and analysis. In this program I used it in data manipulation to clean the data set and to aggregate/group by certian columns. The matplotlib and seaborn library create the actaul chart. matplot creates the charts and seaborn is used to simplify the syntax for matplotlib.
 
-# Useful Websites
-
-* [W3 Schools: Matplotlib](https://www.w3schools.com/python/matplotlib_pyplot.asp)
-* [Python Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
-
-# Future Work
-
-* Follow my setup time table more closely.
-* Follow tutorials.
-* Create a website to practice skills learned in this course.
